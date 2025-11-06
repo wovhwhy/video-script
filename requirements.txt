@@ -8,7 +8,6 @@ backports.weakref==1.0.post1
 bitstring==3.1.9
 brotlipy==0.7.0
 cachetools==5.5.2
-clyent==1.2.2
 coloredlogs==15.0.1
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
